@@ -20,7 +20,7 @@ A modern, responsive, and customizable developer portfolio template built with *
 
 ```bash
 git clone https://github.com/takoalania/dev-portfolio-starter
-cd portfolio-template
+cd dev-portfolio-template
 ```
 
 ### 2. Install Dependencies
